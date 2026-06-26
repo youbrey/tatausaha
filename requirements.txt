@@ -1,0 +1,12 @@
+customtkinter
+python-docx
+docxtpl
+pandas
+openpyxl
+
+# opsional (untuk Live Preview & input kalender) -- aplikasi tetap
+# berjalan tanpa ini, hanya fitur terkait yang nonaktif
+docx2pdf
+PyMuPDF
+Pillow
+tkcalendar
